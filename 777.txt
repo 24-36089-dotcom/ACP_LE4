@@ -1,0 +1,7 @@
+Student No.: 777
+Full Name: John Denver F. Robles
+Age: 19
+Program: BSIT
+Gender: Male
+Birthday: 09/09/2006
+Contact Number: 9123457890
